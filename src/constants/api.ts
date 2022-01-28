@@ -12,9 +12,7 @@ export const API = {
     opensea_collections_url: "https://api.opensea.io/api/v1/collections?",
     opensea_nft_url: "https://api.opensea.io/api/v1/assets?",
     opensea_collection_url: "https://api.opensea.io/api/v1/collection/",
-    // server_url: "https://raritycollection.herokuapp.com",
-     server_url: "http://raritycollection222.us-3.evennode.com",
-    //server_url: "http://localhost:5000",
+    server_url: "http://raritycollection222.us-3.evennode.com",
     discord_server: "https://discord.gg/nftrarity",
     cookie_expire: 60,  //1h
     user_login: "/user/login",
