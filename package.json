@@ -61,6 +61,9 @@
     "use-dark-mode": "^2.3.1",
     "web3": "^1.2.6"
   },
+  "engines" : { 
+    "node" : ">=14.8.3" 
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
