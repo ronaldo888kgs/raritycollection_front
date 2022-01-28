@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ronaldo888kgs.github.io/raritycollection_front",
+  "homepage": "https://ronaldo888kgs.github.io/",
   "dependencies": {
     "@apollo/client": "^3.4.16",
     "@babel/runtime": "^7.9.2",
@@ -62,7 +62,8 @@
     "web3": "^1.2.6"
   },
   "engines" : { 
-    "node" : "^14.18.0" 
+    "node" : "^14.18.0" ,
+    "npm" : "^6.14.15"
   },
   "scripts": {
     "start": "react-scripts start",
