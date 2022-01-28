@@ -1,0 +1,39 @@
+@import "../Styles/mixin";
+
+.arrows {
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  font-size: $fontSize-desktop;
+  color: rgba(255, 255, 255, 0.3);
+  cursor: pointer;
+
+  @include tablet {
+    font-size: $fontSize-tablet;
+    transition: $ease-in-transition;
+  }
+
+  @include mobile {
+    font-size: $fontSize-mobile;
+    transition: $ease-in-transition;
+  }
+
+  .prev,
+  .next {
+    position: absolute;
+  }
+
+  .prev {
+    left: 1rem;
+    &:hover {
+      color: white;
+    }
+  }
+
+  .next {
+    right: 1rem;
+    &:hover {
+      color: white;
+    }
+  }
+}
