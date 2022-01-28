@@ -1,0 +1,43 @@
+{
+  "files": {
+    "static/js/0.91959462.chunk.js": "/static/js/0.91959462.chunk.js",
+    "static/js/1.e8e3b9ad.chunk.js": "/static/js/1.e8e3b9ad.chunk.js",
+    "static/js/2.3bfa972c.chunk.js": "/static/js/2.3bfa972c.chunk.js",
+    "static/js/3.31aca30a.chunk.js": "/static/js/3.31aca30a.chunk.js",
+    "main.js": "/static/js/main.258fdd16.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.a7f07ca4.js",
+    "static/css/6.ffd85cc7.chunk.css": "/static/css/6.ffd85cc7.chunk.css",
+    "static/js/6.1a475183.chunk.js": "/static/js/6.1a475183.chunk.js",
+    "static/js/7.e77377cf.chunk.js": "/static/js/7.e77377cf.chunk.js",
+    "static/css/8.cd04230d.chunk.css": "/static/css/8.cd04230d.chunk.css",
+    "static/js/8.676ed0e8.chunk.js": "/static/js/8.676ed0e8.chunk.js",
+    "static/js/9.6573c2e7.chunk.js": "/static/js/9.6573c2e7.chunk.js",
+    "static/js/10.d5c54c07.chunk.js": "/static/js/10.d5c54c07.chunk.js",
+    "static/js/11.3774f55c.chunk.js": "/static/js/11.3774f55c.chunk.js",
+    "static/js/12.224bc596.chunk.js": "/static/js/12.224bc596.chunk.js",
+    "static/js/13.b0418c8b.chunk.js": "/static/js/13.b0418c8b.chunk.js",
+    "static/js/14.f9dca1ff.chunk.js": "/static/js/14.f9dca1ff.chunk.js",
+    "static/js/15.08387127.chunk.js": "/static/js/15.08387127.chunk.js",
+    "static/js/16.dd2f6485.chunk.js": "/static/js/16.dd2f6485.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.729c94e5d4aa015463cacd2c519847f0.js": "/precache-manifest.729c94e5d4aa015463cacd2c519847f0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/0.91959462.chunk.js.LICENSE.txt": "/static/js/0.91959462.chunk.js.LICENSE.txt",
+    "static/js/6.1a475183.chunk.js.LICENSE.txt": "/static/js/6.1a475183.chunk.js.LICENSE.txt",
+    "static/media/ErrorImage.svg": "/static/media/ErrorImage.6db5f281.svg",
+    "static/media/bsc.svg": "/static/media/bsc.e407bf07.svg",
+    "static/media/ethereum.svg": "/static/media/ethereum.0fb0ca23.svg",
+    "static/media/metamask.svg": "/static/media/metamask.dcc2103a.svg",
+    "static/media/notfound.svg": "/static/media/notfound.106f27a7.svg",
+    "static/media/rarity.png": "/static/media/rarity.8188d318.png",
+    "static/media/styles.css": "/static/media/revicons.2feb69cc.eot",
+    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg",
+    "static/media/walletConnect.svg": "/static/media/walletConnect.0bd30abf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7f07ca4.js",
+    "static/css/6.ffd85cc7.chunk.css",
+    "static/js/6.1a475183.chunk.js",
+    "static/js/main.258fdd16.chunk.js"
+  ]
+}
