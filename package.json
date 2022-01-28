@@ -62,7 +62,7 @@
     "web3": "^1.2.6"
   },
   "engines" : { 
-    "node" : ">=14.8.3" 
+    "node" : ">=14" 
   },
   "scripts": {
     "start": "react-scripts start",
